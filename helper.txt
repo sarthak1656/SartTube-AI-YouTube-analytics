@@ -1,0 +1,3 @@
+npx inngest-cli@latest dev
+npx drizzle-kit studio
+npx drizzle-kit push

@@ -6,7 +6,7 @@ function Dashboard() {
     return (
         <div>
             {/* Welcome banner */}
-        <WelcomeBanner/>
+            <WelcomeBanner/>
 
             {/* Features list */}
             <FeatureList/>
